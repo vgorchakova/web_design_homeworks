@@ -1,0 +1,38 @@
+.row{
+    display:inline-block;
+    flex-direction:row;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.row div {
+
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.black {
+
+    background-color: rgb(33, 31, 31);
+    display:inline-block;
+    flex-direction:row;
+    
+}
+.green {
+
+    background-color: rgba(166, 245, 127, 0.847);
+    display:inline-block;
+    flex-direction:row;
+}
+.red{
+background-color: rgb(233, 91, 91);
+display:inline-block;
+    flex-direction:row;
+}
+.blue {
+    background-color: rgba(121, 191, 237, 0.967);
+    display:inline-block;
+    flex-direction:row;
+}
+
