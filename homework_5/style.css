@@ -1,0 +1,14 @@
+table{
+    margin: 25px;
+    box-shadow: rgb(255, 255, 255)
+    
+}
+th, td{
+    padding:10 px;
+    background-color:rgb(80, 224, 80) ;
+    border:2px solid;
+    vertical-align: top;
+    text-align: center;
+    height: 10px;
+    width: 70px;
+}
