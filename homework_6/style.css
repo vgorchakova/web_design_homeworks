@@ -1,0 +1,24 @@
+div{
+   
+    border-radius: 20px;
+    padding: 15px;
+    width: max-content;
+}
+
+div.block{
+    background-color: rgba(216, 140, 47, 0.781);
+    border-radius:20px;
+    height:400px;
+    
+}
+
+img{
+
+    border-radius:20px;
+    height:300px;
+}
+p{
+    width: max-content
+}
+
+
