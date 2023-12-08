@@ -1,0 +1,9 @@
+.container{
+    background-color: rgb(18, 150, 203);
+}
+.container .row div {
+    border:1px solid;
+    padding: 20px;
+}
+
+
