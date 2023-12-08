@@ -1,0 +1,33 @@
+body{
+    font-family:Comfortaa;
+}
+h1, h3{
+    text-align: center;
+}
+.one  {
+    font-family:fog;
+}
+.second {
+    font-family:fog ;
+}
+.third {
+    font-family:fog ;
+}
+.four {
+    font-family:fog ;
+}
+.five {
+    font-family:fog ;
+}
+.six {
+    font-family:fog ;
+}
+
+@font-face {
+    font-family:fog;
+    src: url(FoglihtenNo06_076.otf);
+}
+.six:hover{
+    background-color: rgb(87, 131, 225);
+    width: max-content;
+}
