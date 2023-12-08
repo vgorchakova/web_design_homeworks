@@ -1,0 +1,38 @@
+@keyframes anim1 {
+    0%{
+        background-color: rgb(235, 235, 116);
+        transform:scale(6);
+    }
+    15%{
+        background-color: rgb(242, 154, 45);
+        transform:skew(-30deg, 30deg);
+        height: 80px;
+        weight:80px ;
+       
+    }
+
+    20%{
+        background-color:rgb(31, 172, 215) ;
+        transform:translate(30);
+      
+    }
+    50%{
+        background-color: rgb(8, 76, 49);
+        transform:rotateZ('angle')(600px,600px);
+    }
+
+    100%{
+        transform:perspective(6);
+    
+        <img src: "https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666206225_8-mykaleidoscope-ru-p-kartinka-na-zastavku-oboi-8.jpg">
+    }
+
+}
+.block{
+    height:100px;
+    width: 100px;
+    animation-name: anim1;
+    animation-iteration-count: infinite;
+    animation-duration :6s ;
+  
+}
